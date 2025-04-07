@@ -55,3 +55,10 @@ Run `ng build` to build the project. The build artifacts will be stored in the `
 ## Running unit tests
 
 Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io). The UI will not display becuase the browser runs in headless mode 'ChromeHeadless', this is to cater for the test execution in teh GitHub CI/CD pipeline
+
+## CI/CD pipeline
+
+The CI/CD pipeline can be accessed through this [link](https://github.com/yaasiercode2025/FlagExplorerFrontend/actions/runs/14307465089)  
+
+Click on the re-run icon on the left and the click on the 'Re-run jobs' button in the popup.
+
